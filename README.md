@@ -9,3 +9,6 @@ ThoraricSurgery3.csv * [출처](https://github.com/taehojo/deeplearning/blob/mas
 
 
 pima-indians-diabetes3.csv * [출처](https://github.com/taehojo/deeplearning/blob/master/data/pima-indians-diabetes3.csv)
+
+
+iris3.csv * [출처](https://github.com/taehojo/deeplearning/blob/master/data/iris3.csv)
